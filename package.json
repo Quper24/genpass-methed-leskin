@@ -1,5 +1,5 @@
 {
-  "name": "genpass-methed-leskin",
+  "name": "genpass-leskin",
   "version": "0.0.1",
   "description": "Generate password cli trainig project",
   "main": "index.js",
